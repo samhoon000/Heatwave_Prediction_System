@@ -1,1 +1,0 @@
-# Heatwave_Prediction_System
